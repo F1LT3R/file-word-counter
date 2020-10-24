@@ -1,0 +1,3 @@
+Hi, my name is Al.
+Alistair is my full name.
+This is a test file for a word counting script in Node.js.

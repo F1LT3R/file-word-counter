@@ -1,0 +1,1 @@
+Foo, bar, baz and qux are all names of meta-static variables.
